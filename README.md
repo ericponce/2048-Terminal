@@ -1,4 +1,5 @@
 2048-Terminal
 =============
 
-2048 for Linux Terminals using ncurses
+2048 remake using ncurses to display in a terminal window
+
