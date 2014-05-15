@@ -3,3 +3,8 @@
 
 2048 remake using ncurses to display in a terminal window
 
+### Run
+```
+make
+./2048
+```
